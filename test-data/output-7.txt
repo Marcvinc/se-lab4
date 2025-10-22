@@ -1,2 +1,4 @@
 SUCCESS  # <- GT4500
-SUCCESS  # <- TORPEDO
+SUCCESS  # <- TORPEDO primary
+FAIL  # <- TORPEDO secondary fail
+FAIL  # <- TORPEDO after failure
